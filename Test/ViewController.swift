@@ -3,7 +3,7 @@
 //  Test
 //
 //  Created by Adam hollett on 10/31/17.
-//  Copyright © 2017 Mojo-USA. All rights reserved.
+//  Copyright © 2017 Mojo-USA. All rights reserved..
 //
 
 import UIKit
